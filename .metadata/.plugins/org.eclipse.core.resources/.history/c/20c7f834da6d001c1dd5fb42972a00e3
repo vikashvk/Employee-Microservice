@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.example.dao;
+
+/**
+ * @author yequa
+ *
+ */
+public class ProfileRepository extends JpaRepository<EmployeeProfile, Integer>{
+		
+}

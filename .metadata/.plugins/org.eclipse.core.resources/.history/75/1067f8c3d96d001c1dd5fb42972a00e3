@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.example.model;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+/**
+ * @author yequa
+ *
+ */
+@Entity
+@Table(name = "employee_profile")
+public class EmployeeProfile {
+
+	
+}
